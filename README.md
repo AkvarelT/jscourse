@@ -1,2 +1,0 @@
-# jscourse
-training projects
